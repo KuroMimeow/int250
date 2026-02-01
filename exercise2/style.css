@@ -1,0 +1,20 @@
+.highlight {
+    background-color: #ffb7e2 !important; 
+    border-left: 5px solid #ff56b0 !important;
+    transition: background-color 0.3s ease;
+}
+
+.priority-hard {
+    background-color: #fceae7 ;
+    border-left: 5px solid #F87962;
+}
+
+.priority-normal {
+    background-color: #eaeaff ;
+    border-left: 5px solid #5C5FFF;
+}
+
+.priority-easy {
+    background-color: #e7ffed ;
+    border-left: 5px solid #5CFF8A;
+}
